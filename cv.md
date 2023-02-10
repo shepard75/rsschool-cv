@@ -12,7 +12,7 @@
 |![phone](/rsschool-cv/phone.png)|5666546546|
 | ----------------------------------| --------- |
 |![e-mail](/rsschool-cv/email.png)|edv7983@mail.ru|
-|![discord](/rsschool-cv/discord.png)|@shepard75|
+|![discord](/rsschool-cv/discord_icon.png)|@shepard75|
 
 ### PROFILE
 
